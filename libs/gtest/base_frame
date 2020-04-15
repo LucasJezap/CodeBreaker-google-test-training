@@ -1,0 +1,50 @@
+########################################################################################################
+##               _____ ____  _____  ______ ____  _____  ______          _  ________ _____             ##
+##              / ____/ __ \|  __ \|  ____|  _ \|  __ \|  ____|   /\   | |/ /  ____|  __ \            ##
+##             | |   | |  | | |  | | |__  | |_) | |__) | |__     /  \  | ' /| |__  | |__) |           ##
+##             | |   | |  | | |  | |  __| |  _ <|  _  /|  __|   / /\ \ |  < |  __| |  _  /            ##
+##             | |___| |__| | |__| | |____| |_) | | \ \| |____ / ____ \| . \| |____| | \ \            ##
+##              \_____\____/|_____/|______|____/|_|  \_\______/_/    \_\_|\_\______|_|  \_\           ##
+##                                                                                                    ##
+########################################################################################################
+##   Attempt no   ####      Guesses      ##                          Results                          ##
+########################################################################################################
+##                ####                   ##                                                           ##        Try yourself with Codebreaker!
+##   Attempt 1    ####                   ##                                                           ##        Codebreaker is a logic game where you have to guess correctly the sequence of five colors
+##                ####                   ##                                                           ##        Seems too harsh? Don't worry, there are tips that aim to help you beat the game
+##                ####                   ##                                                           ##        Every round you have to make a guess of a sequence containing 5 colors (order is important!)
+##   Attempt 2    ####                   ##                                                           ##        After every guess you'll get a return information about your sequence
+##                ####                   ##                                                           ##        For every right color guess you will get a 'o' sign meaning that a color is right
+##                ####                   ##                                                           ##        But the color might be in a wrong place!
+##   Attempt 3    ####                   ##                                                           ##        If you guessed correctly a place in a sequence you will get x instead
+##                ####                   ##                                                           ##        Keep in mind that colors might be repeated!
+##                ####                   ##                                                           ##
+##   Attempt 4    ####                   ##                                                           ##        You can pick from following colors:
+##                ####                   ##                                                           ##        o  - C (CYAN)
+##                ####                   ##                                                           ##        o  - W (WHITE)
+##   Attempt 5    ####                   ##                                                           ##        o  - G (GREEN)
+##                ####                   ##                                                           ##        o  - R (RED)
+##                ####                   ##                                                           ##        o  - Y (YELLOW)
+##   Attempt 6    ####                   ##                                                           ##        o  - B (BLUE)
+##                ####                   ##                                                           ##        o  - L (BLACK)
+##                ####                   ##                                                           ##        o  - M (MAGENTA)
+##   Attempt 7    ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##                ####                   ##                                                           ##        Copyright 2020 Lukasz Jezapkowicz
+##   Attempt 8    ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##   Attempt 9    ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##   Attempt 10   ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##   Attempt 11   ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+##   Attempt 12   ####                   ##                                                           ##
+##                ####                   ##                                                           ##
+########################################################################################################
+
+Make your guess?
