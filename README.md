@@ -9,5 +9,6 @@ For Linux (makefile):
 - make tests - do the tests  
   
 For Windows:
-- download the .exe from https://github.com/LucasJezap/CodeBreaker-google-test-training/blob/master/CodeBreaker.exe
+- download the .exe from https://github.com/LucasJezap/CodeBreaker-google-test-training/blob/master/CodeBreaker.exe  
+
 Copyright © 2020 Łukasz Jezapkowicz
